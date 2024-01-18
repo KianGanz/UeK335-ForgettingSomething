@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690327392370",
+    "project_id": "forgettingsomething-3c845",
+    "storage_bucket": "forgettingsomething-3c845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690327392370:android:58c0744238f06c8d3f72eb",
+        "android_client_info": {
+          "package_name": "com.example.uek_forgettingsomething"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVMt_D6cbEw8ufaOfA2HjsngoPLq_Yfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
