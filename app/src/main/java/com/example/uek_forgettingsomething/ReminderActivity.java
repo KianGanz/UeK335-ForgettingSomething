@@ -1,6 +1,5 @@
 package com.example.uek_forgettingsomething;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
@@ -12,7 +11,6 @@ public class ReminderActivity extends AppCompatActivity {
     Button submitReminder;
     EditText editTitle, editDate, editTime;
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
